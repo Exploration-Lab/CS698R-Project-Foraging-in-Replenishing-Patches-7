@@ -48,7 +48,7 @@ Demo run of trained PPO agent on Block 3 of the environment available at [demo](
 
 > Deep RL methods [[.py]](agents/DRL) [[jupyter notebooks]](notebooks/DRL)
 
-> MDP and Human Forgetful Behaviour Modelling [[.py]](agents/MDP) [[jupyter notebooks]](notebooks/MDP)
+> MDP and Human Forgetful Behaviour Modelling [[.py]](agents/MDP) [[jupyter notebooks]](agents/MDP)
 
 
 ## Results 
