@@ -1,4 +1,4 @@
-# CS698R-Project-Foraging-in-Replenishing-Patches-7
+# Foraging Replenishing Patches
 
 ![human_animal_learning_schematic](assets/human_animal_learing.jpg)
 
@@ -9,9 +9,13 @@ in the learning process of humans. We explore the effect of the working memory m
 
 
 ## Requirements
-- We use [OpenAI Gym](https://opencv.org) to create a custom environment for the foraging with replinishing patches task.
+- We use [OpenAI Gym](https://gym.openai.com) to create a custom environment for the foraging with replinishing patches task.
 
-- We use [OpenCV](https://gym.openai.com) (opencv-python) for rendering the environment in manual play mode.
+- We use [OpenCV](https://opencv.org) (opencv-python) for rendering the environment in manual play mode.
+
+- We use [PyTorch](https://pytorch.org/) and [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/) for training the Deep RL agent.
+
+      pip install requirements.txt
 
 ## OpenAI Gym Environment
 - Testing the registered openai gym environment 
@@ -30,7 +34,7 @@ in the learning process of humans. We explore the effect of the working memory m
 
 ## Random Agent on Foraging Environment 
 <br />
-<img src="./gym-env/gym_env/envs/env_gifs/random_agent_fps30.gif" width="700px"></img>
+<img src="./gym-env/gym_env/envs/env_gifs/random_agent_fps30.gif" width="400px"></img>
 
 ## Experiments
 
@@ -55,10 +59,25 @@ in the learning process of humans. We explore the effect of the working memory m
 
 ## Reports
 
-The detailed reports and presentations for this project can be found below:
+The detailed reports for our project can be found below:
 
 > Milestone-1 Submission [[Presentation]](docs/Milestone-1-Submission/CS698R-Project-Presentation-7.pdf) [[Report]](docs/Milestone-1-Submission/CS698R-Project-Report-7.pdf)
 
 > Final Submission [[Presentation]](docs/Final-Submission/CS698R-Project-Presentation-7.pdf) [[Report]](docs/Final-Submission/CS698R-Project-Report-7.pdf)
-  
 
+## Authors
+
+* Abhinav Joshi
+* Samrudh B Govindraj
+* Archi Gupta
+* Shiven Tripathi
+
+## Acknowledgement
+
+* We thank Prof. Ashutosh Modi for providing us the opportunity to learn about RL algorithms through this course and the project.
+
+* We thank Prof. Arjun Ramakrishnan for the project ideas and and helping us understand the human behavior modelling with reinforcement learning.
+
+* We thank Kshitij, our project mentor for helping us with the solution approaches and guiding and clarifying our doubts about the environment.
+
+* We thank Shubham, our TA for helping us with the logistics and providing valuable inputs to the project.
