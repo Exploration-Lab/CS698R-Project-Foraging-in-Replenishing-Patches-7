@@ -36,6 +36,10 @@ in the learning process of humans. We explore the effect of the working memory m
 <br />
 <img src="./gym-env/gym_env/envs/env_gifs/random_agent_fps30.gif" width="400px"></img>
 
+## Demo 
+
+Demo run of trained PPO agent on Block 3 of the environment available at [demo](assets/demo_PPO.gif)
+
 ## Experiments
 
 > Modified Marginal Value Theorem [[.py]](./agents/MVT) [[jupyter notebooks]](notebooks/MVT)
