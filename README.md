@@ -1,4 +1,4 @@
-# Foraging Replenishing Patches
+# CS698R-Project-Foraging-in-Replenishing-Patches-7
 
 ![human_animal_learning_schematic](assets/human_animal_learing.jpg)
 
@@ -44,11 +44,11 @@ Demo run of trained PPO agent on Block 3 of the environment available at [demo](
 
 > Modified Marginal Value Theorem [[.py]](./agents/MVT) [[jupyter notebooks]](notebooks/MVT)
 
-> Multi-Armed Bandit and MDP [[.py]](agents/MAB) [[jupyter notebooks]](notebooks/MAB)
+> Multi-Armed Bandit [[.py]](agents/MAB) [[jupyter notebooks]](notebooks/MAB)
 
 > Deep RL methods [[.py]](agents/DRL) [[jupyter notebooks]](notebooks/DRL)
 
-> Human Forgetful Behaviour Modelling [[.py]](agents/MDP) [[jupyter notebooks]](notebooks/MDP)
+> MDP and Human Forgetful Behaviour Modelling [[.py]](agents/MDP) [[jupyter notebooks]](agents/MDP)
 
 
 ## Results 
@@ -63,7 +63,7 @@ Demo run of trained PPO agent on Block 3 of the environment available at [demo](
 
 ## Reports
 
-The detailed reports for our project can be found below:
+The detailed reports and presentations for this project can be found below:
 
 > Milestone-1 Submission [[Presentation]](docs/Milestone-1-Submission/CS698R-Project-Presentation-7.pdf) [[Report]](docs/Milestone-1-Submission/CS698R-Project-Report-7.pdf)
 
