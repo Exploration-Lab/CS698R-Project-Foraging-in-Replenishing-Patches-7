@@ -44,11 +44,11 @@ Demo run of trained PPO agent on Block 3 of the environment available at [demo](
 
 > Modified Marginal Value Theorem [[.py]](./agents/MVT) [[jupyter notebooks]](notebooks/MVT)
 
-> Multi-Armed Bandit and MDP [[.py]](agents/MDP) [[jupyter notebooks]](notebooks/MDP)
+> Multi-Armed Bandit and MDP [[.py]](agents/MAB) [[jupyter notebooks]](notebooks/MAB)
 
 > Deep RL methods [[.py]](agents/DRL) [[jupyter notebooks]](notebooks/DRL)
 
-> Human Forgetful Behaviour Modelling [[.py]](agents/MAB) [[jupyter notebooks]](notebooks/MAB)
+> Human Forgetful Behaviour Modelling [[.py]](agents/MDP) [[jupyter notebooks]](notebooks/MDP)
 
 
 ## Results 
